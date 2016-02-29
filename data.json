@@ -57,6 +57,13 @@
 				"category": ["complex"],
 				"difficulty": 7
 			}
+			{
+				"name": "SQL Injection Attacks by Example",
+				"url": "http://www.unixwiz.net/techtips/sql-injection.html",
+				"description": "透過大量範例來簡介如何透過SQL injection來獲得資料",
+				"category": ["complex", "web"],
+				"difficulty": 2
+			}
 		],
 		"書籍推薦": [
 			{
